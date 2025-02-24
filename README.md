@@ -94,13 +94,4 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 
 ---
 
-## Contato
-
-Se você tiver dúvidas ou sugestões, entre em contato:
-
-- **E-mail**: seu-email@exemplo.com
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
-
----
-
 **FinanFamily** - Simplificando a divisão de despesas em grupo! 💸
